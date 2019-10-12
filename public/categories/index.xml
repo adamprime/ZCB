@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Zion&#39;s Camp Books</title>
+    <link>https://zionscampbooks.com/categories/</link>
+    <description>Recent content in Categories on Zion&#39;s Camp Books</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://zionscampbooks.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://zionscampbooks.com/categories/</link>
+      <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zionscampbooks.com/categories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>audiobooks</title>
+      <link>https://zionscampbooks.com/categories/audiobooks/</link>
+      <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zionscampbooks.com/categories/audiobooks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>books</title>
+      <link>https://zionscampbooks.com/categories/books/</link>
+      <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zionscampbooks.com/categories/books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ebooks</title>
+      <link>https://zionscampbooks.com/categories/ebooks/</link>
+      <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zionscampbooks.com/categories/ebooks/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

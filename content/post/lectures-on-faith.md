@@ -2,7 +2,7 @@
 title = "Lectures on Faith"
 draft = false
 date = "2019-10-12"
-slug = "/post/lectures-on-faith"
+slug = "/lectures-on-faith"
 image = "img/books/lectures_on_faith_covers_background.png" # starts with img/path/to/image.ext.  Image should be 570 x 1140 px
 showonlyimage = false # this can be set to true or false. 
 description = "The Lectures on Faith contain important doctrinal insights that can help anyone seeking to learn more about faith and come closer to Heavenly Father and Jesus Christ." # add <!--more--> in the body to have what's above it be the preview text
