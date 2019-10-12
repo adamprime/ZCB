@@ -1,15 +1,13 @@
----
-title: ""
-date: "{{ dateFormat "2006-01-02" .Date }}"
-url: "/{{ .Dir }}{{ .Name }}"
-description: ""
-tldr: ""
-image: "" # default width is 1280, path starts with "img/whatever.ext"
-thumbnail: "" # default size should be 500x500, path starts with "img/whatever.ext"
-credit: "" # this is the link to the page the image came from 
-categories:
-- Uncategorized
-tags: 
-- 
-draft: "true" # change to false to publish
----
++++
+title = ""
+draft = true
+date = "{{ dateFormat "2006-01-02" .Date }}"
+slug = "/{{ .Dir }}{{ .Name }}"
+image = "" # starts with img/path/to/image.ext. Image should be 1140 x 570 px
+showonlyimage = false # this can be set to true or false. 
+description = "" # add <!--more--> in the body to have what's above it be the preview text
+categories = [""] # surround by quotes and add commas between 
+tags = [""] # surround by quotes and add commas between. These are optional
+writer = "Adam Tervort"
+weight = 1 # The lower the number the higher on the page it will appear. Only use for "pinned" posts
++++
